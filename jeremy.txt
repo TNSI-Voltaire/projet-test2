@@ -1,1 +1,3 @@
-Voici le fichier de Jérémy(moi)
+Voici le fichier de Jérémy(moi).
+J'ai enfin résolue mon problème pour push mes repository,
+donc voilà.
